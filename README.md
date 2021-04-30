@@ -1,5 +1,5 @@
-# FreeRDP 6JAM
-Free RDP Windows Ram 7GB 2 Core Cpu 
+# Free RDP 6JAM
+Free RDP Windows RDP  7GB 2 Core Cpu 
 
 + Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
 
