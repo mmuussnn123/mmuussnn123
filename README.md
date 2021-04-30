@@ -15,18 +15,26 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 ### STEP 1
 ```Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).```
 
-+ kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
+###STEP 2
+```kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN```
 
-+ Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
+###STEP 3
+```Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret```
 
-+ isi Nama: Masukan NGROK_AUTH_TOKEN
+###STEP 4
+```isi Nama: Masukan NGROK_AUTH_TOKEN```
 
-+ isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value
+###STEP 5
+```isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value```
 
-+ Tekan Add secret
+###STEP 6
+```Tekan Add secret```
 
-+ Pergi Ke Action> CI> Run workflow
+###STEP 7
+```Pergi Ke Action> CI> Run workflow```
 
-+ Refresh Web dan masuk ke CI> build
+###STEP 8
+```Refresh Web dan masuk ke CI> build```
 
-+ Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.
+###STEP 9
+```Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.```
