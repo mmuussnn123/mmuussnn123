@@ -12,7 +12,8 @@ Free RDP Windows RDP  7GB 2 Core Cpu
 </details>
 ini semua gratis, jangan pelit ⭐️ ya :D
 
-+ Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
+### STEP 1
+```Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).```
 
 + kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
 
