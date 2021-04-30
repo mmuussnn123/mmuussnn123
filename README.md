@@ -7,10 +7,7 @@
 <a href="https://github.com/AdityaGans2642"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ADITYA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/AdityaGans2542/AdityaRDP/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/AdityaGans2542/AdityaRDP/badge/master"></a>
-</p>
-<p align="center">
-<a href="https://github.com/AdityaGans2542/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
+<a href="https://github.com/AdityaGans2542/followers"><img title="Followers" src="https://img.shields.io/github/followers/AdityaGans2542?color=blue&style=flat-square"></a>
 <a href="https://github.com/AdityaGans2542/AdityaRDP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AdityaGans2542/AdityaRDP?color=red&style=flat-square"></a>
 <a href="https://github.com/AdityaGans2542/AdityaRDP/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/AdityaGans2542/AdityaRDP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AdityaGans2542/AdityaRDP?label=Watchers&color=blue&style=flat-square"></a>
