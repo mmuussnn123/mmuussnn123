@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/AdityaGans2542/followers"><img title="Followers" src="https://img.shields.io/github/followers/AdityaGans2542?color=blue&style=flat-square"></a>
 <a href="https://github.com/AdityaGans2542/AdityaRDP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AdityaGans2542/AdityaRDP?color=red&style=flat-square"></a>
-<a href="https://github.com/AdityaGans2542/AdityaRDP/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/AdityaGans2542/AdityaRDP/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AdityaGans2542/AdityaRDP?color=red&style=flat-square"></a>
 <a href="https://github.com/AdityaGans2542/AdityaRDP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AdityaGans2542/AdityaRDP?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdityaGans2542%2FAdityaRDP&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
