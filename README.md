@@ -1,6 +1,6 @@
 # Free RDP 6JAM
 
-<img src="https://github.com/AdityaGans2542/AdityaRDP/blob/main/wallpaper.png" width=750 height="350" align="center">
+<img src="https://github.com/AdityaGans2542/AdityaRDP/blob/main/wallpaper.png" width=900 height="600" align="center">
 <center>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/AdityaRDP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
