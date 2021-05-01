@@ -6,7 +6,7 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/AdityaRDP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/adityagans2542/adityardp/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"><img title="Rating" src="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"></a>
 <p align="center">
 <a href="https://github.com/AdityaGans2642"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ADITYA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
