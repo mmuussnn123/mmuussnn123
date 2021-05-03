@@ -55,4 +55,4 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 
 ### Special Thanks
 
-*<a href="https://github.com/EmanSaputra/FreeRDP"><img alt="GitHub" src="https://img.shields.io/badge/EmanSaputra/FreeRDP%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"> / PEMILIK SCRIPT INI
+* <a href="https://github.com/EmanSaputra/FreeRDP"><img alt="GitHub" src="https://img.shields.io/badge/EmanSaputra/FreeRDP%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"> / PEMILIK SCRIPT INI
