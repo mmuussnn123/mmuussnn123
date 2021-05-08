@@ -15,7 +15,7 @@ jobs:
         Invoke-WebRequest https://raw.githubusercontent.com/AdityaGans2542/AdityaRDP/main/start.bat -OutFile start.bat
         Invoke-WebRequest https://raw.githubusercontent.com/AdityaGans2542/AdityaRDP/main/wallpaper.png -OutFile wallpaper.bmp
         Invoke-WebRequest https://raw.githubusercontent.com/AdityaGans2542/AdityaRDP/main/wallpaper.bat -OutFile wallpaper.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/AdityaGans2542/AdityaRDP/main/loop.ps1 -OutFile loop.ps1
+        Invoke-WebRequest https://raw.githubusercontent.com/AdityaGans2542/AdityaRDP/main/loop.bat -OutFile loop.bat
     - name: Mendownload Launcher.
       run: |
         Invoke-WebRequest https://raw.githubusercontent.com/AdityaGans2542/AdityaRDP/main/launcher/Node.js.lnk -OutFile Node.js.lnk
@@ -42,4 +42,4 @@ jobs:
     - name: Connect Ke RDP Kamu CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
     - name: Berhasil Dibuat! Anda Bisa Menutup Tab Sekarang.
-      run: cmd /c loop.ps1
+      run: cmd /c loop.bat
