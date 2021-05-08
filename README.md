@@ -26,7 +26,7 @@
 </details>
 ini semua gratis, jangan pelit ⭐️ ya :D
 
-### STEP 1
+### CARA CREATE AdityaRDP
 ```
 > Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
 
