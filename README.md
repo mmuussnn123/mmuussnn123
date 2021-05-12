@@ -47,5 +47,3 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 > Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.
 ```
 
-###warn
-JANGAN RECODE SC NYA ASW
