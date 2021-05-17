@@ -21,7 +21,7 @@
 <details>
  <summary>😍 Help me!</summary>
  
- [TRAKTEER](https://trakteer.co/adityakodingers)
+ [SAWERIA](https://saweria.co/adityakodingers)
  
 </details>
 ini semua gratis, jangan pelit ⭐️ ya :D
