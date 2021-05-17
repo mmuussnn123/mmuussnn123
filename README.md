@@ -21,7 +21,7 @@
 <details>
  <summary>😍 Help me!</summary>
  
- [TRAKTEER](https://trakteer.id/aditya2542)
+ [TRAKTEER](https://trakteer.co/adityakodingers)
  
 </details>
 ini semua gratis, jangan pelit ⭐️ ya :D
