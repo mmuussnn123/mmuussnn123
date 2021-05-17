@@ -21,7 +21,7 @@
 <details>
  <summary>😍 Help me!</summary>
  
- [SAWERIA](https://saweria.co/adityakodingers)
+ [SAWERIA](https://saweria.co/aditkodingers)
  
 </details>
 ini semua gratis, jangan pelit ⭐️ ya :D
